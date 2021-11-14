@@ -1,0 +1,98 @@
+{
+    "canciones": [
+        {
+            "artista": "Bad Bunny",
+            "id": 1,
+            "nombre": "Saraganuncad"
+        },
+        {
+            "artista": "L-Gante",
+            "id": 3,
+            "nombre": "Malianteo 420"
+        },
+        {
+            "artista": "El cuarteto de nos",
+            "id": 4,
+            "nombre": "Apocalipsis Zombie"
+        },
+        {
+            "artista": "Fito Paez",
+            "id": 5,
+            "nombre": "Mariposa Tecnicolor"
+        }
+    ],
+    "playlists": [
+        {
+            "size": 3,
+            "id": 1,
+            "nombre": "Mi Lista",
+            "songlist": [
+                1,
+                3,
+                4
+            ],
+            "master": "ness"
+        },
+        {
+            "size": 2,
+            "id": 2,
+            "nombre": "Latinos",
+            "songlist": [
+                1,
+                3
+            ],
+            "master": "pedru"
+        },
+        {
+            "size": 1,
+            "id": 3,
+            "nombre": "Runrun",
+            "songlist": [4],
+            "master": "pedru"
+        },
+        {
+            "size": 0,
+            "id": 4,
+            "nombre": "De pana",
+            "songlist": [],
+            "master": "pedru"
+        },
+        {
+            "size": 0,
+            "id": 5,
+            "nombre": "Exitos",
+            "songlist": [],
+            "master": "nico"
+        }
+    ],
+    "usuarios": [
+        {
+            "date": "Sat Nov 13 18:01:56 ART 2021",
+            "size": 1,
+            "playlists": [1],
+            "type": "ST",
+            "nombreapellido": "nico",
+            "username": "ness"
+        },
+        {
+            "date": "Sun Nov 14 00:33:42 ART 2021",
+            "size": 3,
+            "playlists": [
+                2,
+                3,
+                4
+            ],
+            "type": "PM",
+            "nombreapellido": "Pedro Alvarez",
+            "username": "pedru"
+        },
+        {
+            "date": "Sun Nov 14 01:15:19 ART 2021",
+            "size": 1,
+            "playlists": [5],
+            "type": "PM",
+            "nombreapellido": "Nico Escude",
+            "username": "nico"
+        }
+    ]
+}
